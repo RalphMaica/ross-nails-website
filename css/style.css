@@ -35,10 +35,10 @@ main{
     background-color: antiquewhite;
 }
 section{  
+    background-color: aqua;
     display: flex;
     height: 100vh;
     justify-content: center;
     align-items: center;
     padding: 10px;
-    position: relative;
 }
